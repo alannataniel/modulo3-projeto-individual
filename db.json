@@ -1,9 +1,68 @@
 {
-    "posts": [
-        { "id": 1, "title": "json-server", "author": "typicode" }
+    "sala": [
+    { 
+        "id": 1,
+        "cadeira": "G9",
+        "ingresso": "inteiro"
+    },
+    {
+        "id": 2,
+        "cadeira": "G10",
+        "ingresso": "meia"
+    },
+    { 
+        "id": 3,
+        "cadeira": "G11",
+        "ingresso": "inteiro"
+    },
+    {
+        "id": 4,
+        "cadeira": "G12",
+        "ingresso": "meia"
+    }
     ],
-    "comments": [
-        { "id": 1, "body": "some comment", "postId": 1 }
+    "comidas": [
+    {
+        "id": 1,
+        "tipo": "pipoca",
+        "tamanho": "pequena"
+    },
+    {
+        "id": 2,
+        "tipo": "pipoca",
+        "tamanho": "grande"
+    },
+    {
+        "id": 3,
+        "tipo": "refrigerante",
+        "tamanho": "pequena"
+    },
+    {
+        "id": 4,
+        "tipo": "refrigerante",
+        "tamanho": "grande"
+    }
     ],
-    "profile": { "name": "typicode" }
+    "doces": [
+    {
+        "id": 1,
+        "nome": "barra de chocolate",
+        "peso": "380g"
+    },
+    {
+        "id": 2,
+        "nome": "jujuba",
+        "peso": "200g"
+    },
+    {
+        "id": 3,
+        "nome": "sorvete",
+        "peso": "350g"
+    },
+    {
+        "id": 4,
+        "nome": "bolinho",
+        "peso": "250g"
+    }
+    ]
 }
