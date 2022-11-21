@@ -3,66 +3,78 @@
     { 
         "id": 1,
         "cadeira": "G9",
-        "ingresso": "inteiro"
+        "ingresso": "inteiro",
+        "preço": "R$ 18,00"
     },
     {
         "id": 2,
         "cadeira": "G10",
-        "ingresso": "meia"
+        "ingresso": "meia",
+        "preço": "R$ 9,00"
     },
     { 
         "id": 3,
         "cadeira": "G11",
-        "ingresso": "inteiro"
+        "ingresso": "inteiro",
+        "preço": "R$ 18,00"
     },
     {
         "id": 4,
         "cadeira": "G12",
-        "ingresso": "meia"
+        "ingresso": "meia",
+        "preço": "R$ 9,00"
     }
     ],
     "comidas": [
     {
         "id": 1,
         "tipo": "pipoca",
-        "tamanho": "pequena"
+        "tamanho": "pequena",
+        "preço": "R$ 6,00"
     },
     {
         "id": 2,
         "tipo": "pipoca",
-        "tamanho": "grande"
+        "tamanho": "grande",
+        "preço": "R$ 9,00"
     },
     {
         "id": 3,
         "tipo": "refrigerante",
-        "tamanho": "pequena"
+        "tamanho": "pequena",
+        "preço": "R$ 6,00"
     },
     {
         "id": 4,
         "tipo": "refrigerante",
-        "tamanho": "grande"
+        "tamanho": "grande",
+        "preço": "R$ 9,00"
     }
     ],
     "doces": [
     {
         "id": 1,
         "nome": "barra de chocolate",
-        "peso": "380g"
+        "peso": "380g",
+        "preço": "R$ 6,00"
     },
     {
         "id": 2,
         "nome": "jujuba",
-        "peso": "200g"
+        "peso": "200g",
+        "preço": "R$ 4,00"
     },
     {
         "id": 3,
         "nome": "sorvete",
-        "peso": "350g"
+        "peso": "350g",
+        "preço": "R$ 5,00"
     },
     {
         "id": 4,
         "nome": "bolinho",
-        "peso": "250g"
+        "peso": "250g",
+        "preço": "R$ 4,00"
     }
     ]
 }
